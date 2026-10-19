@@ -58,7 +58,7 @@ Finder .. UC05
 
 note right of UC02
   습득 학생이 학생용 앱으로
-  자신이 습득한 물품을 등록
+  자신이 습득한 물품을 등록합니다
 end note
 
 note right of UC05
